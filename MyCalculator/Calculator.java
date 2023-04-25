@@ -1,3 +1,9 @@
+/*
+*   Author: Haci Onur Sogut
+*   Date: 25.04.2023
+*   Description: A simple calculator using Java Swing
+*/
+
 package MyCalculator;
 
 import javax.swing.*;
