@@ -1,7 +1,7 @@
 /*
  *   Author: Haci Onur Sogut
  *   Date: 27.04.2023
- *   Description: A simple calculator using Java Swing
+ *   Description: A simple calculator using Java Swing (Still updating the calculator)
  */
 
 package MyCalculator;
